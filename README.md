@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monill1
-- 👀 I’m interested in M.I
+- 👀 I’m interested in M.I & A.I
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me panchalmonil22@gmail.com
 
