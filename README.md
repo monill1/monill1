@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @monill1
-- 👀 I’m interested in M.I & A.I
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Monil Panchal
+- 👀 My interest is in M.I. & A.I. & Big Data.
+- 🌱 I’m currently pursuing Data Science/ Business Intelligent & Analytics
 - 📫 How to reach me panchalmonil22@gmail.com
 
 
