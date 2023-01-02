@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Monil Panchal
-- 👀 My interest lies in M.I., Big Data and A.I.
+- 👀 My interest lies in Machine Learning, Big Data and A.I.
 - 🌱 I’m currently pursuing Data Science/ Business Intelligent & Analytics
 - 📫 How to reach me panchalmonil22@gmail.com
 
