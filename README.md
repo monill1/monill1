@@ -1,6 +1,7 @@
 Hello, my name is Monil Panchal and I am a Data Science/ Business Intelligent & Analytics student with a passion for Machine Learning, Big Data and A.I. I am always looking for new opportunities to apply my skills and learn new ones. On this profile, you will find my personal projects and experiments.
 
-You can reach me at panchalmonil22@gmail.com for any queries or collaborations. Thank you for visiting my profile!
+You can reach me at panchalmonil22@gmail.com for any queries or collaborations. 
+Thank you for visiting my profile!
 
 
 - 👋 Hi, I’m Monil Panchal
