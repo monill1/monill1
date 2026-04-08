@@ -33,9 +33,9 @@ Results-driven AI/ML and Backend Engineer with hands-on experience in building s
 
 ### 📊 Data Science & ML Projects
 - Geely Automotive Pricing Model (Liner Regression Model)
-- Bike Sharing Demand Prediction (Regression Model)
+- Movie Recommender Systems (cosine similarity / similarity matrix)
 - Credit Risk Analysis (EDA + Feature Engineering)
-- Lead Scoring Model (Classification)
+- Lead Scoring Model (Logistic Regression, Classification)
 
 ---
 
